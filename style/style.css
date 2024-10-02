@@ -1,0 +1,25 @@
+div{
+    border:1px solid; 
+    background-color: blueviolet;
+    color: aliceblue;
+    width:50%;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 50px 20px 20px 50px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+#para{
+    background:white;
+    color: black;
+    padding: 20px;
+}
+.way{
+    color: olive;
+}
+.color{
+    color: red;
+    border: 1px solid red;
+    display: inline-block;
+}

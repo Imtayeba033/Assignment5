@@ -1,0 +1,23 @@
+ *{
+    margin: 0;
+ }
+ header{
+    background-color: black;
+    padding: 20px;
+ }
+ ul>li{
+    list-style: none;
+}
+ul>li:hover{
+    background-color: gray;
+    padding: 5px 10px;
+}
+li>a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+}
+ul{
+    display: flex;
+    gap: 30px;
+}

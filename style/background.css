@@ -1,0 +1,7 @@
+.container{
+    background-image:url("../image/background.jpg");
+    height: 600px;
+    background-size: contain;
+ background-repeat:no-repeat;    
+ 
+}
